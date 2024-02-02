@@ -1,13 +1,13 @@
-# Ticketing System
+# Queue Management System
 
-This project implements a ticketing system that allows users/customers to register and receive tickets.
+This project implements a queue management system that allows customers to register and receive tickets, and staff members to manage the queue.
 
 ## Components
 
 ### Register.jsx
 
-- Allows users/customers to request a ticket by clicking on a button (Print functions need to be implemented)
-- Displays the number that the user/customer will receive
+- Allows customers to request a ticket by clicking on a button (Print functions need to be implemented)
+- Displays the number that the customer will receive
 
 ### Index.jsx
 
